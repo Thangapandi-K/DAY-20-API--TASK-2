@@ -15,6 +15,7 @@ const joke = fetch(API_URL)
     const jokePunch = document.getElementById("puchline");
     jokePunch.innerText = data.punchline;
 })
+.catch(error => console.log(error.message));
 
 
 

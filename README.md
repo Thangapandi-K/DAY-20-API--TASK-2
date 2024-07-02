@@ -4,4 +4,4 @@
 
 - Created a random joke fetch web
 
-- [Click Here]() to preview the deplyed web preview
+- [Click Here](https://random-joke-web.netlify.app/) to preview the deplyed web preview
